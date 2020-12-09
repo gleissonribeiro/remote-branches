@@ -85,3 +85,4 @@ console.log('-------------------');
 const G = 9.8;
 
 const J = 4.6;
+const K = 3.1415;
