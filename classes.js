@@ -83,3 +83,5 @@ console.log(PROJETO);
 console.log('-------------------');
 
 const G = 9.8;
+
+const J = 4.6;
