@@ -81,3 +81,5 @@ console.log('===============');
 console.log(PROJETO);
 
 console.log('-------------------');
+
+const G = 9.8;
